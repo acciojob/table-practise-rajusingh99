@@ -5,9 +5,18 @@
 	height:250px;
 	
 }
-.details{
-	textalign:center;
+.details{   
+	margin-left: 50px;
 }
 .row{
 	border-color:black;
 }
+.table {
+			border-collapse: collapse;
+		}
+
+		.table th,
+		.table td {
+			border: 1px solid black;
+			padding: 8px;
+		
